@@ -18,9 +18,9 @@ Evaluating Japanese AI text is hard to do at a glance - politeness levels (keigo
 
 ## Setup
 
-pip install pandas matplotlib numpy
-pip install japanize-matplotlib  # optional, for Japanese text in charts
-python evaluator.py
+pip install pandas matplotlib numpy  
+pip install japanize-matplotlib  # optional, for Japanese text in charts  
+python evaluator.py  
 
 ## Files
 
